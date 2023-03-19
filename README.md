@@ -62,7 +62,7 @@
   <img alt="vscode" height="45" width="45" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img alt="jira" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
   <img alt="npm" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-<br/> --> -->
+<br/> -->
 
 <!-- <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mohamed-tayeh&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
