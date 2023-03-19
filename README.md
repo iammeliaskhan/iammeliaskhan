@@ -64,9 +64,9 @@
   <img alt="npm" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mohamed-tayeh&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-</div>
+</div> -->
 
 <div align="center" style="display: inline_block"><br>
   <a href = "mailto:iammeliaskhan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
